@@ -1,0 +1,72 @@
+body{
+	background-image:url("back.jpg");
+	
+	background-attachment:scroll;
+	background-attachment:fixed;
+	
+	
+}
+.titre {
+	text-align:right;
+	color:yellow;
+	font-style:italic;
+	font-size:35px;
+}
+.image{
+	float:left;
+}
+h1{
+	color:yellow;
+	font-style:italic;
+}
+#logo {
+	color:black;
+}
+h2{
+	font-family:verdana;
+	font-size:30;
+	font-style:italic;
+	color:black;
+}
+#inscription{
+	padding:20;
+	float:right;
+	size:100;
+	background-color:white;
+	margin-bottom:10px;
+	border-radius:10px;
+	margin-top:40px;
+	margin:50;
+	
+}
+.text-center mainColor{
+	color:yellow;
+	
+}
+.form filieres {
+	margin-bottom: 30px;
+	
+}
+.border{
+border-radius:5px;
+padding:5px;
+background-color:#cccccc;  	
+}
+#button{
+	background-color:yellow;
+	width:100%;
+}
+#group{
+	margin-top:3px;
+}
+#size{
+	width:100%
+}
+h4{
+	font-weight: bold;
+	font-size:25;
+	color:orenge;
+	
+	text-align;center;
+	
+}
